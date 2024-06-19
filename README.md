@@ -17,10 +17,10 @@ stability_analysis.ipynb-- is the jupyter notebook to analyse and visualise the 
 
 sensitivity_index.ipynb -- is the jupyter notebook to analyse and visualise the sensitivity index on the different parameters 
 
-#SYSTEM AND SOFTWARE REQUIREMENTS
+# SYSTEM AND SOFTWARE REQUIREMENTS
 
 
-##Operating system
+## Operating system
 We run the simulation study  and tested it on personal computer (Linux Ubuntu Version 22.04).
 
 Required software
