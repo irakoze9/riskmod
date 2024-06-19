@@ -26,8 +26,9 @@ We run the simulation study  and tested it on personal computer (Linux Ubuntu Ve
 Required software
 Python 3.11.9 (https://www.python.org/) . To Install Python, do the following:
 
-Open an internet browser and go to (https://www.python.org/).
-Under Download click on the latest python to download for the operating system.
+1.Open an internet browser and go to (https://www.python.org/).
+
+2.Under Download click on the latest python to download for the operating system.
 
 # COPYRIGHT AND LICENSING INFORMATION
 
