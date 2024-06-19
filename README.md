@@ -11,3 +11,24 @@ This repository contains the  necessary tools used to get the results from this 
 
 # Codes 
 
+All codes are written in python which is a  programming language. Python documentation and software is available for free download through website: https://www.python.org/.
+
+stability_analysis.ipynb-- is the jupyter notebook to analyse and visualise the stability analysis of systemic risk in the banking ecosystem.
+
+sensitivity_index.ipynb -- is the jupyter notebook to analyse and visualise the sensitivity index on the different parameters 
+
+#SYSTEM AND SOFTWARE REQUIREMENTS
+
+
+##Operating system
+We run the simulation study  and tested it on personal computer (Linux Ubuntu Version 22.04).
+
+Required software
+Python 3.11.9 (https://www.python.org/) . To Install Python, do the following:
+
+Open an internet browser and go to (https://www.python.org/).
+Under Download click on the latest python to download for the operating system.
+
+# COPYRIGHT AND LICENSING INFORMATION
+
+
