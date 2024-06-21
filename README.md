@@ -1,4 +1,4 @@
-# Mathematical Modeling and Stability Analysis of Systemic Risk in the Banking Ecosystem
+# Mathematical Modeling of Systemic Risk in the Banking Ecosystem
 
 This work investigates the dynamics of systemic risk in banking networks by analyzing equilibrium points and stability conditions. The focus is on a model that
 incorporates interactions among distressed and undistressed banks. The equilibrium points are determined by solving a reduced system of equations, considering both homogeneous and heterogeneous scenarios. Local and global stability analyses reveal conditions under which equilibrium points are stable or unstable. 
