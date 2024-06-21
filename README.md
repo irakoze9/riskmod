@@ -13,6 +13,8 @@ This repository contains the  necessary tools used to get the results from this 
    * Code files for simulations
    
 * [System and software requirements](#system-and-software-requirements)
+    * Operating system
+    * Required software
 * [Copyright and licensing information](#copyright-and-licensing-information)
 * [Contact information](#contact-information)
 
