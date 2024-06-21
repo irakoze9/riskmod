@@ -9,6 +9,13 @@ Numerical simulations further illustrate the dynamics of systemic risk, while th
 
 This repository contains the  necessary tools used to get the results from this study:
 
+* Codes
+   * Code files for simulations
+   
+* [System and software requirements](#system-and-software-requirements)
+* [Copyright and licensing information](#copyright-and-licensing-information)
+* [Contact information](#contact-information)
+
 ### Codes 
 
 All codes are written in python which is a  programming language. Python documentation and software is available for free download through website: https://www.python.org/.
