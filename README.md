@@ -39,6 +39,6 @@ All files are copyright protected and are made available under the GPL 3.0 Licen
 ## CONTACT INFORMATION
 
 Irene Irakoze
-Email: <ireneirakoze@ub.edu.bi>
+Email: <irene.irakoze@ub.edu.bi>
 
 
